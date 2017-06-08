@@ -12,7 +12,7 @@ Leap year detactor
 > coming soon..
 >---------------------------
 >
->Link to deployed page _(click here)_<a href="" title="Title">
+>Link to deployed page _(click here)_<a href="https://domanisamuel.github.io/leapyear-detector/" title="Title">
 Leap Year Detector</a>
 >
 >---------------------------
